@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DocuVieware HTML5/jQuery App</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="docuvieware-min.css">
+    <script src="docuvieware-min.js"></script>
+    <script>
+
+        //DocuVieware control rendering and setting some document access control options
+        //document printing, document uploading, document downloading
+        function getDocuVieware(UserType, Path, print, save, upload) {
+
+            $(document).ready(function () {
+                var docuViewareConfig = {
+                    //mandatory parameters: SessionId and ControlId
+                    SessionId: uniqueSessionId(), //identifies session
+                    ControlId: "DocuVieware1",//identifies control within the same session
+                    AllowPrint: print,
+                    EnablePrintButton: print,
+                    AllowUpload: upload,
+                    EnableFileUploadButton: upload,
+                    EnableSaveButton: save,
+                    CollapsedSnapIn: true,
+                    ShowAnnotationsSnapIn: true,
+                    EnableRotateButtons: true,
+                    EnableZoomButtons: true,
+                    EnablePageViewButtons: true,
+                    EnableMultipleThumbnailSelection: true,
+                    EnableMouseModeButtons: true,
+                    EnableFormFieldsEdition: true,
+                    EnableTwainAcquisitionButton: true
+                    
+
+                };
+                $.ajax({
+                    url: "http://localhost:54425/api/DocuViewareREST/GetDocuViewareControl",
+                    type: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify(docuViewareConfig),
+                    success: function (data) {
+
+
+                       
+                        $("#dvContainer").html(data["HtmlContent"]);
+                        //document loading into DocuVieware
+                        //PostCustomAction approach allows to load documents dynamically into viewer without reloading the page
+                         DocuViewareAPI.PostCustomServerAction('DocuVieware1', true, "load", { "Path": Path, "UserType": UserType }, function () {
+                             console.log("success");
+                         }, function () { });
+                    }
+                });
+            });
+                        
+                        
+
+        }
+
+        //creating a unique ID for DocuVieware session
+        function uniqueSessionId() {
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+            var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+            return v.toString(16);
+         });
+        }
+
+    </script>
+</head>
+<body>
+    <div id="myModal" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Select your account type</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <button type="button" id="staff" class="btn btn-primary">Staff</button>
+                    <button type="button" id="user" class="btn btn-primary">External User</button>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="dvContainer" style="width:100%; height:700px;"></div>
+    <script>
+
+        $('#myModal').modal({ "show": true });
+
+        var UserType = "user";
+        var Path = "DocuViewareFlyer.pdf";
+        
+        $('#staff').click(function () {
+            UserType = "staff";
+            $('#myModal').modal("toggle");
+            getDocuVieware(UserType, Path, true,true, true);
+
+        });
+        $('#user').click(function () {
+
+            $('#myModal').modal("toggle");
+            getDocuVieware(UserType,Path, false, false, false);
+
+        });
+
+
+         
+        
+       
+    // everytime there is manipulation with the annotation we store the annotations together with the PDF
+    // similar logic can be applied to DOcuVieware comments
+    // similar events on the comments added are available in DocuVieware JS
+    function SaveAnnotations() {
+    if (typeof DocuViewareAPI !== "undefined" && DocuViewareAPI.IsInitialized("DocuVieware1")) {
+        DocuViewareAPI.RegisterOnAnnotationAdded("DocuVieware1", function (annot) {
+            
+            
+            DocuViewareAPI.PostCustomServerAction('DocuVieware1', true, "setAnnotationTag", { "type": UserType, "annot": annot }, function () {
+                console.log("success")
+            }, function () { });
+               
+        });
+
+        DocuViewareAPI.RegisterOnAnnotationDeleted("DocuVieware1", function (annot) {
+            
+            
+            DocuViewareAPI.PostCustomServerAction('DocuVieware1', true, "setAnnotationTag", { "type": UserType, "annot": annot }, function () {
+                console.log("success")
+            }, function () { });
+               
+        });
+
+        DocuViewareAPI.RegisterOnAnnotationEdited("DocuVieware1", function (annot) {
+            
+            
+            DocuViewareAPI.PostCustomServerAction('DocuVieware1', true, "setAnnotationTag", { "type": UserType, "annot": annot }, function () {
+                console.log("success")
+            }, function () { });
+               
+        });
+    }
+    else {
+        setTimeout(function () { SaveAnnotations() }, 10);
+    }
+        }
+
+
+document.addEventListener("DOMContentLoaded", function () {
+    SaveAnnotations();
+}, false);
+
+    </script>
+   
+</body>
+</html>
+

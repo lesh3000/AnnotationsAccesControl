@@ -1,0 +1,362 @@
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\obj\Debug\DocuViewareREST.csprojAssemblyReference.cache
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CoreCompileInputs.cache
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\DocuViewareREST.dll.config
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\DocuViewareREST.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\DocuViewareREST.pdb
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\csc.exe
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\csc.exe.config
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\csc.rsp
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\csi.exe
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\csi.rsp
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.AppContext.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Collections.Immutable.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.IO.FileSystem.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Reflection.Metadata.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\vbc.exe
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\vbc.exe.config
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\vbc.rsp
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\VBCSCompiler.exe
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\VBCSCompiler.exe.config
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\Newtonsoft.Json.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Net.Http.Formatting.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Web.Cors.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Web.Http.Cors.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Web.Http.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Web.Http.WebHost.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\Newtonsoft.Json.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Net.Http.Formatting.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Web.Http.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Web.Http.Cors.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\System.Web.Http.WebHost.xml
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CopyComplete
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\obj\Debug\DocuViewareREST.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\obj\Debug\DocuViewareREST.pdb
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\Newtonsoft.Json.pdb
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\csi.exe.config
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Console.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Globalization.Calendars.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.IO.Compression.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Net.Http.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Net.Sockets.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.ValueTuple.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Xml.XPath.dll
+C:\GdPicture.NET 14\Samples\ASP.NET\DocuVieware\aspnetcore-rest\DocuViewareREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\DocuViewareREST.dll.config
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\DocuViewareREST.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\DocuViewareREST.pdb
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\csc.exe
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\csc.exe.config
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\csc.rsp
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\csi.exe
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\csi.exe.config
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\csi.rsp
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.AppContext.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Console.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.IO.Compression.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Net.Http.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.ValueTuple.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\vbc.exe
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\vbc.exe.config
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\vbc.rsp
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\VBCSCompiler.exe
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\Newtonsoft.Json.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Net.Http.Formatting.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Web.Cors.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Web.Http.Cors.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Web.Http.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Web.Http.WebHost.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.xml
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\Newtonsoft.Json.pdb
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\Newtonsoft.Json.xml
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Net.Http.Formatting.xml
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Web.Http.xml
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Web.Http.Cors.xml
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\bin\System.Web.Http.WebHost.xml
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\obj\Debug\DocuViewareREST.csprojAssemblyReference.cache
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CoreCompileInputs.cache
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CopyComplete
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\obj\Debug\DocuViewareREST.dll
+C:\Users\dmitry\Desktop\serverSide\DocuViewareREST\obj\Debug\DocuViewareREST.pdb
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\DocuViewareREST.dll.config
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\DocuViewareREST.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\DocuViewareREST.pdb
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\csc.exe
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\csc.exe.config
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\csc.rsp
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\csi.exe
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\csi.exe.config
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\csi.rsp
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.AppContext.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Console.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.IO.Compression.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Net.Http.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.ValueTuple.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\vbc.exe
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\vbc.exe.config
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\vbc.rsp
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\VBCSCompiler.exe
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\Newtonsoft.Json.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Net.Http.Formatting.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Web.Cors.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Web.Http.Cors.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Web.Http.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Web.Http.WebHost.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.xml
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\Newtonsoft.Json.pdb
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\Newtonsoft.Json.xml
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Net.Http.Formatting.xml
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Web.Http.xml
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Web.Http.Cors.xml
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\System.Web.Http.WebHost.xml
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\obj\Debug\DocuViewareREST.csprojAssemblyReference.cache
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CoreCompileInputs.cache
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CopyComplete
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\obj\Debug\DocuViewareREST.dll
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\obj\Debug\DocuViewareREST.pdb
+C:\Users\dmitry\Desktop\RESTloadingMltMethods\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.csprojAssemblyReference.cache
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.pdb
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\DocuViewareREST.dll.config
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\DocuViewareREST.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\DocuViewareREST.pdb
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\csc.exe
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\csc.exe.config
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\csc.rsp
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\csi.exe
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\csi.exe.config
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\csi.rsp
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.AppContext.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Console.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.IO.Compression.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Net.Http.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.ValueTuple.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\vbc.exe
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\vbc.exe.config
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\vbc.rsp
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\VBCSCompiler.exe
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\Newtonsoft.Json.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Net.Http.Formatting.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Web.Cors.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Web.Http.Cors.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Web.Http.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Web.Http.WebHost.dll
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.xml
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\Newtonsoft.Json.pdb
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\Newtonsoft.Json.xml
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Net.Http.Formatting.xml
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Web.Http.xml
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Web.Http.Cors.xml
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\bin\System.Web.Http.WebHost.xml
+C:\Users\lesh3\Downloads\LoadSnapinPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CopyComplete
+G:\My Drive\newPermissions\DocuViewareREST\bin\DocuViewareREST.dll.config
+G:\My Drive\newPermissions\DocuViewareREST\bin\DocuViewareREST.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\DocuViewareREST.pdb
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\csc.exe
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\csc.exe.config
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\csc.rsp
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\csi.exe
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\csi.exe.config
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\csi.rsp
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.AppContext.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Console.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Globalization.Calendars.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.IO.Compression.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Net.Http.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Net.Sockets.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.ValueTuple.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Xml.XPath.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\vbc.exe
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\vbc.exe.config
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\vbc.rsp
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\VBCSCompiler.exe
+G:\My Drive\newPermissions\DocuViewareREST\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\newPermissions\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\Newtonsoft.Json.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Net.Http.Formatting.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Web.Cors.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Web.Http.Cors.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Web.Http.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Web.Http.WebHost.dll
+G:\My Drive\newPermissions\DocuViewareREST\bin\GdPicture.NET.14.WEB.DocuVieware.xml
+G:\My Drive\newPermissions\DocuViewareREST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\newPermissions\DocuViewareREST\bin\Newtonsoft.Json.pdb
+G:\My Drive\newPermissions\DocuViewareREST\bin\Newtonsoft.Json.xml
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Net.Http.Formatting.xml
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Web.Http.xml
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Web.Http.Cors.xml
+G:\My Drive\newPermissions\DocuViewareREST\bin\System.Web.Http.WebHost.xml
+G:\My Drive\newPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.csprojAssemblyReference.cache
+G:\My Drive\newPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.csproj.CopyComplete
+G:\My Drive\newPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.dll
+G:\My Drive\newPermissions\DocuViewareREST\obj\Debug\DocuViewareREST.pdb
